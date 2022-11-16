@@ -1,10 +1,8 @@
-import 'dart:html';
-
-import 'package:afplayer/Home_page.dart';
-import 'package:afplayer/intro_screens/intro__screen1.dart';
-import 'package:afplayer/intro_screens/intro_screen2.dart';
-import 'package:afplayer/intro_screens/intro_screen3.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/Home_page.dart';
+import 'package:flutter_application_1/intro_screens/intro__screen1.dart';
+import 'package:flutter_application_1/intro_screens/intro_screen2.dart';
+import 'package:flutter_application_1/intro_screens/intro_screen3.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 
 class Onboardingscreen extends StatefulWidget {

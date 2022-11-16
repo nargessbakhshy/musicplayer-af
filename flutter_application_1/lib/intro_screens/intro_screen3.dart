@@ -1,5 +1,5 @@
-import 'package:afplayer/Home_page.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/Home_page.dart';
 
 class introscreen3 extends StatefulWidget {
   const introscreen3({Key? key}) : super(key: key);
